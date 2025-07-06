@@ -3,3 +3,4 @@ uvicorn
 faster-whisper
 pydub
 ffmpeg-python
+openai-whisper
